@@ -1,0 +1,42 @@
+{
+  "dotnet.automaticallySyncWithActiveItem": true,
+  "csharp.preview.improvedLaunchExperience": true,
+  "dotnet.preferVisualStudioCodeFileSystemWatcher": true,
+  "dotnet.testWindow.disableAutoDiscovery": true,
+  "dotnet.testWindow.useTestingPlatformProtocol": true,
+  "cSpell.customDictionaries": {
+    "custom-dictionary-workspace": {
+      "name": "custom-dictionary-workspace",
+      "path": "${workspaceFolder:Phoneword}/.cspell/custom-dictionary-workspace.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  },
+  "workbench.editor.wrapTabs": true,
+  "workbench.editor.alwaysShowEditorActions": true,
+  "workbench.editor.autoLockGroups": {
+    "default": true,
+    "jupyter-notebook": true
+  },
+  "workbench.editor.preferHistoryBasedLanguageDetection": true,
+  "workbench.editor.sharedViewState": true,
+  "workbench.editor.untitled.labelFormat": "name",
+  "terminal.integrated.allowedLinkSchemes": [
+    "file",
+    "http",
+    "https",
+    "mailto",
+    "vscode",
+    "vscode-insiders",
+    "android"
+  ],
+
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.automationProfile.linux": {
+    "path": "${workspaceFolder}",
+},
+"terminal.integrated.confirmOnExit": "hasChildProcesses",
+"terminal.integrated.confirmOnKill": "always",
+"terminal.integrated.copyOnSelection": true,
+"terminal.integrated.enableImages": true,
+}

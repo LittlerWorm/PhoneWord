@@ -1,0 +1,15 @@
+# Custom Dictionary Words
+Compat
+Exif
+iossimulator
+Jetbrains
+maccatalyst
+netstandard
+packa
+Parcelable
+Phoneword
+Proyectos
+Resizetizer
+runtimes
+Tink
+xamarinios

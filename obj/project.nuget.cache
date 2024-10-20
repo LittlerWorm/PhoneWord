@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UlpwVL1gfaI=",
+  "dgSpecHash": "YF/XMbcSZtQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\Phoneword\\PhoneWord\\PhoneWord.csproj",
+  "projectFilePath": "C:\\Users\\n0bdy\\Proyectos\\GitHub\\PhoneWord\\PhoneWord.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\n0bdy\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -16,7 +16,7 @@
     "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.maui.controls\\8.0.92\\microsoft.maui.controls.8.0.92.nupkg.sha512",
     "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.92\\microsoft.maui.controls.build.tasks.8.0.92.nupkg.sha512",
-    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.92\\microsoft.maui.controls.compatibility.8.0.92.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.82\\microsoft.maui.controls.compatibility.8.0.82.nupkg.sha512",
     "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.maui.controls.core\\8.0.92\\microsoft.maui.controls.core.8.0.92.nupkg.sha512",
     "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.maui.controls.xaml\\8.0.92\\microsoft.maui.controls.xaml.8.0.92.nupkg.sha512",
     "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.maui.core\\8.0.92\\microsoft.maui.core.8.0.92.nupkg.sha512",
@@ -106,7 +106,12 @@
     "C:\\Users\\n0bdy\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk7\\1.9.0.1\\xamarin.kotlin.stdlib.jdk7.1.9.0.1.nupkg.sha512",
     "C:\\Users\\n0bdy\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\n0bdy\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\n0bdy\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512"
+    "C:\\Users\\n0bdy\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.android.ref.34\\34.0.143\\microsoft.android.ref.34.34.0.143.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.android.runtime.34.android-arm\\34.0.143\\microsoft.android.runtime.34.android-arm.34.0.143.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.android.runtime.34.android-arm64\\34.0.143\\microsoft.android.runtime.34.android-arm64.34.0.143.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.android.runtime.34.android-x86\\34.0.143\\microsoft.android.runtime.34.android-x86.34.0.143.nupkg.sha512",
+    "C:\\Users\\n0bdy\\.nuget\\packages\\microsoft.android.runtime.34.android-x64\\34.0.143\\microsoft.android.runtime.34.android-x64.34.0.143.nupkg.sha512"
   ],
   "logs": []
 }

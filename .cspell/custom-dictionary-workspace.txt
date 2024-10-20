@@ -1,5 +1,6 @@
 # Custom Dictionary Words
 Compat
+docsmsft
 Exif
 iossimulator
 Jetbrains

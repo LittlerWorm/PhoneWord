@@ -2,8 +2,8 @@
   "dotnet.automaticallySyncWithActiveItem": true,
   "csharp.preview.improvedLaunchExperience": true,
   "dotnet.preferVisualStudioCodeFileSystemWatcher": true,
-  "dotnet.testWindow.disableAutoDiscovery": true,
-  "dotnet.testWindow.useTestingPlatformProtocol": true,
+  "dotnet.testWindow.disableAutoDiscovery": false,
+  "dotnet.testWindow.useTestingPlatformProtocol": false,
   "cSpell.customDictionaries": {
     "custom-dictionary-workspace": {
       "name": "custom-dictionary-workspace",
@@ -39,4 +39,5 @@
 "terminal.integrated.confirmOnKill": "always",
 "terminal.integrated.copyOnSelection": true,
 "terminal.integrated.enableImages": true,
+"docs-build.environment": "PROD",
 }

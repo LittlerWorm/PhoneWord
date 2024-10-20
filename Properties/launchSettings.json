@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "Android": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "nativeDebugging": true
+    },
+    "IOS": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "nativeDebugging": true
+    },
+    "MacCatalyst": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "nativeDebugging": true
+    },
+    "Tizen": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "nativeDebugging": true
+    },
+    "Windows Machine": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "nativeDebugging": true
+    }
+  }
+}
